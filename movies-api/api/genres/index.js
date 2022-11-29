@@ -2,6 +2,7 @@ import express from 'express';
 import { genres } from './genresData';
 import Genre from './genreModel';
 
+
 const router = express.Router();
 
 router.get('/', async (req, res) => {

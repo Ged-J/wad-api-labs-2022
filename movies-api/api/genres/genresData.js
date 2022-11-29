@@ -1,7 +1,7 @@
 export const genres= {
     "genres": [
         {
-            "id": 28,
+            "id": 88888888,
             "name": "Action"
         },
         {
