@@ -5,15 +5,15 @@ export const genres= {
             "name": "Action"
         },
         {
-            "id": 12,
+            "id": 22,
             "name": "Adventure"
         },
         {
-            "id": 16,
+            "id": 36,
             "name": "Animation"
         },
         {
-            "id": 35,
+            "id": 85,
             "name": "Comedy"
         },
         {
